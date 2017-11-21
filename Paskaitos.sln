@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Papildoma", "01Papildoma\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Papildoma", "06Papildoma\06Papildoma.csproj", "{A799A0C5-B16F-4D91-A54E-4B4EF1496598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primilziai", "Primilziai\Primilziai.csproj", "{35E5EA31-9859-4882-BF89-ABA3FAB3CF92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -395,6 +397,10 @@ Global
 		{A799A0C5-B16F-4D91-A54E-4B4EF1496598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A799A0C5-B16F-4D91-A54E-4B4EF1496598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A799A0C5-B16F-4D91-A54E-4B4EF1496598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E5EA31-9859-4882-BF89-ABA3FAB3CF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E5EA31-9859-4882-BF89-ABA3FAB3CF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E5EA31-9859-4882-BF89-ABA3FAB3CF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E5EA31-9859-4882-BF89-ABA3FAB3CF92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -459,6 +465,7 @@ Global
 		{DC037D16-E52F-4D2A-B08A-02D7B55EB059} = {5EFEBCC5-3A80-4A71-9883-996D9FC14FCA}
 		{A0E0C131-A420-4F18-AC83-904A29DB4023} = {5EFEBCC5-3A80-4A71-9883-996D9FC14FCA}
 		{A799A0C5-B16F-4D91-A54E-4B4EF1496598} = {5EFEBCC5-3A80-4A71-9883-996D9FC14FCA}
+		{35E5EA31-9859-4882-BF89-ABA3FAB3CF92} = {5EFEBCC5-3A80-4A71-9883-996D9FC14FCA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {128A84ED-492B-4A2C-9140-BA298B30925E}
