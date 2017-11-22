@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _02Masinos
 {
-    class automobiliai
+    class automobilis
     {
         public string Marke { get; private set; }
         public string Modelis { get; private set; }
@@ -15,7 +15,7 @@ namespace _02Masinos
         public double DarbinisTuris { get; private set; }
         public int Rida { get; private set; }
 
-        public automobiliai(string marke, string modelis, int
+        public automobilis(string marke, string modelis, int
             metai, double darbinisTuris, int galia, int rida)
         {
             Marke = marke;
