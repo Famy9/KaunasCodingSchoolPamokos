@@ -64,10 +64,23 @@ namespace _05Studentai
             var pirmas = MatematikosPazymiai.Max();
             var antras = GeografijosPazymiai.Max();
             var trecias = InformatikosPazymiai.Max();
-            if (p)
-            {
 
+            if (pirmas > antras && pirmas > antras)
+            {
+                return pirmas;
             }
+
+            if (antras > pirmas && antras > trecias)
+            {
+                return antras;
+            }
+
+            if (trecias > pirmas && trecias > antras)
+            {
+                return trecias;
+            }
+
+            return pirmas;
 
         }
 
