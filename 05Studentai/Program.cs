@@ -22,7 +22,7 @@ namespace _05Studentai
             }
             );
 
-            studentas.Isvedimas();
+            studentas.Isvedimas();0
         }
     }
 }
